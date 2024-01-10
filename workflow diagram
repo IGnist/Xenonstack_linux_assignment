@@ -1,0 +1,77 @@
+Workflow for the Git Commit Script:
+
+[Check for Changes]
+    |
+[No Changes]
+    | (Exit)
+[Changes Found]
+    |
+[Select Gitmoji]
+    |
+[Invalid Selection]
+    | (Exit)
+[Valid Selection]
+    |
+[Enter Commit Message]
+    |
+[Commit Changes]
+    |
+[Push Changes]
+    |
+[Success Message]
+
+Workflow for the internsctl Script:
+
+[Check Command Type]
+    |
+[CPU Command]
+    |
+[Get CPU Info]
+    |
+[Invalid CPU Command]
+    | (Exit)
+[Memory Command]
+    |
+[Get Memory Info]
+    |
+[Invalid Memory Command]
+    | (Exit)
+[User Command]
+    |
+[Create User]
+    |
+[List Users]
+    |
+[Invalid User Command]
+    | (Exit)
+[File Command]
+    |
+[Get File Info]
+    |
+[Invalid File Command]
+    | (Exit)
+[Success Message]
+
+
+Workflow for internsctl Manual:
+
+[Display Manual]
+    |
+[Display Options]
+    |
+[Display Arguments]
+    |
+[Display Description]
+    |
+[Display Options]
+    |
+[Display Examples]
+    |
+[Display See Also]
+    |
+[Display Author]
+    |
+[Display Bugs]
+    |
+[Display Copyright]
+    |
